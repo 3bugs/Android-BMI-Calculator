@@ -73,6 +73,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
+        android:background="@drawable/button_background"
         android:padding="20dp"
         android:text="@string/calculate_label"
         android:textSize="30sp"/>
